@@ -1,4 +1,4 @@
 # apnacollege-demo
 my first git Repository
 <br>
-Author - Pratham Lingayat
+Author - Pratham Lingayat(lanja)
